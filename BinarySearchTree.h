@@ -230,6 +230,6 @@ public:
 
 	~BST()
 	{
-		//clear();
+		clear();
 	}
 };
